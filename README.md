@@ -29,26 +29,7 @@ TWELITE STAGE 配布パッケージに含まれる TWELITE_Stage の実行形式
 
 ####  動作確認状況
 
-RaspberryPi OS Buster (32bit版) にてビルド、確認しています。
-
-下表は動作確認状況です。実際の環境で動作するか参考にしてください。
-
-| モデル                     | Zero | Zero | 3B   | 3B   | 4B   | 4B   |
-| -------------------------- | ---- | ---- | ---- | ---- | ---- | ---- |
-|                            | CON  | X11  | 公７ | X11  | CON  | X11  |
-| `TWELITE_Stage_fb.run`     | ✕    | ✕    | 〇   | ✕    | △    | ✕    |
-| `TWELITE_Stage_X11.run`    | ✕    | ✕    | ✕    | 〇   | ✕    | 〇   |
-| `TWELITE_Stage_fb_v6.run`  | 〇   | ✕    | 〇   | ✕    | △    | ✕    |
-| `TWELITE_Stage_X11_v6.run` | ✕    | 〇   | ✕    | 〇   | ✕    | 〇   |
-
-* 公７：公式7インチモニター（コンソール）、CON：HDMI出力（コンソール）、X11(X Window System)
-* 〇→動作する
-* △→動作はするが難がある。設定等が非常に煩雑である。
-* ✕ → 動作しない、動作が期待できない。
-
-
-
-※ OSの設定や導入パッケージなどに依存して、動作確認環境であっても動作しない場合も想定されます。動作しない場合は、まずは、RaspberryPi OS を開発時環境にして確認してください。また、サポート対応等は困難な場合があります。予めご了承ください。
+https://github.com/monowireless/TWELITE_Stage_BIN_RasPi/wiki/Env-1.0.6 参照
 
 
 
