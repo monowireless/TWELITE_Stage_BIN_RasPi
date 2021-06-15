@@ -1,4 +1,4 @@
-TWELITE Stage v1.0.3 - 2020/12/07
+TWELITE Stage v1.0.6 - 2021/06/15
 
 [LICENSE]
 - TWELITE_Stage 実行形式には MW-SLA-1J,E が適用されます。
