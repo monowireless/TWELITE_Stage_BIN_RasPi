@@ -29,7 +29,7 @@ TWELITE STAGE 配布パッケージに含まれる TWELITE_Stage の実行形式
 
 ####  動作確認状況
 
-https://github.com/monowireless/TWELITE_Stage_BIN_RasPi/wiki/Env-1.0.6 参照
+https://github.com/monowireless/TWELITE_Stage_BIN_RasPi/wiki/Env 参照
 
 
 
